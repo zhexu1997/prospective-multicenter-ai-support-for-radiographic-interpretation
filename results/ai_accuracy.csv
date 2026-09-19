@@ -1,0 +1,4 @@
+﻿model,n_cases,n_correct,accuracy
+GPT-5.4,60,40,66.7
+Gemini-3.6 Flash,60,37,61.7
+Kimi-K2.6,60,39,65.0

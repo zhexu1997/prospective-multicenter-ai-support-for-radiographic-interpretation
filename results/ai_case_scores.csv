@@ -1,0 +1,181 @@
+﻿case_id,model,reference_diagnosis_en,primary_diagnosis_zh,correct
+Case_01,GPT-5.4,Pneumothorax / pleural air,左侧气胸,True
+Case_01,Gemini-3.6 Flash,Pneumothorax / pleural air,左侧气胸,True
+Case_01,Kimi-K2.6,Pneumothorax / pleural air,左侧气胸,True
+Case_02,GPT-5.4,Pneumothorax / pleural air,支气管炎,False
+Case_02,Gemini-3.6 Flash,Pneumothorax / pleural air,胸部未见明显异常,False
+Case_02,Kimi-K2.6,Pneumothorax / pleural air,支气管炎,False
+Case_03,GPT-5.4,Pneumothorax / pleural air,左下肺炎,False
+Case_03,Gemini-3.6 Flash,Pneumothorax / pleural air,支气管炎,False
+Case_03,Kimi-K2.6,Pneumothorax / pleural air,支气管肺炎,False
+Case_04,GPT-5.4,Pneumothorax / pleural air,双下肺轻度炎性浸润,False
+Case_04,Gemini-3.6 Flash,Pneumothorax / pleural air,双肺未见明显异常,False
+Case_04,Kimi-K2.6,Pneumothorax / pleural air,支气管炎,False
+Case_05,GPT-5.4,Pneumothorax / pleural air,支气管炎,False
+Case_05,Gemini-3.6 Flash,Pneumothorax / pleural air,胸部平片未见明显异常,False
+Case_05,Kimi-K2.6,Pneumothorax / pleural air,急性支气管炎,False
+Case_06,GPT-5.4,Pneumothorax / pleural air,右侧气胸,True
+Case_06,Gemini-3.6 Flash,Pneumothorax / pleural air,右侧气胸,True
+Case_06,Kimi-K2.6,Pneumothorax / pleural air,右侧气胸,True
+Case_07,GPT-5.4,Pneumothorax / pleural air,支气管炎/小气道炎症,False
+Case_07,Gemini-3.6 Flash,Pneumothorax / pleural air,双肺未见明显异常,False
+Case_07,Kimi-K2.6,Pneumothorax / pleural air,右肺炎症,False
+Case_08,GPT-5.4,Pneumothorax / pleural air,左侧少量气胸,True
+Case_08,Gemini-3.6 Flash,Pneumothorax / pleural air,双肺未见明显异常,False
+Case_08,Kimi-K2.6,Pneumothorax / pleural air,左侧气胸,True
+Case_09,GPT-5.4,Pneumothorax / pleural air,支气管炎,False
+Case_09,Gemini-3.6 Flash,Pneumothorax / pleural air,支气管炎,False
+Case_09,Kimi-K2.6,Pneumothorax / pleural air,双肺支气管炎,False
+Case_10,GPT-5.4,Pneumonia,右上叶肺炎,True
+Case_10,Gemini-3.6 Flash,Pneumonia,右上肺大叶性肺炎,True
+Case_10,Kimi-K2.6,Pneumonia,右肺上叶大叶性肺炎,True
+Case_11,GPT-5.4,Pneumonia,支气管肺炎,True
+Case_11,Gemini-3.6 Flash,Pneumonia,急性粟粒性肺结核,False
+Case_11,Kimi-K2.6,Pneumonia,支气管肺炎,True
+Case_12,GPT-5.4,Pneumonia,支气管肺炎,True
+Case_12,Gemini-3.6 Flash,Pneumonia,支气管炎,False
+Case_12,Kimi-K2.6,Pneumonia,双肺支气管肺炎,True
+Case_13,GPT-5.4,Pneumonia,支气管肺炎,True
+Case_13,Gemini-3.6 Flash,Pneumonia,支气管肺炎,True
+Case_13,Kimi-K2.6,Pneumonia,支气管肺炎,True
+Case_14,GPT-5.4,Pneumonia,支气管肺炎,True
+Case_14,Gemini-3.6 Flash,Pneumonia,支气管肺炎,True
+Case_14,Kimi-K2.6,Pneumonia,支气管肺炎,True
+Case_15,GPT-5.4,Pneumonia,左下肺炎,True
+Case_15,Gemini-3.6 Flash,Pneumonia,左下肺肺炎,True
+Case_15,Kimi-K2.6,Pneumonia,支气管肺炎,True
+Case_16,GPT-5.4,Pneumonia,右上叶肺炎,True
+Case_16,Gemini-3.6 Flash,Pneumonia,右上肺大叶性肺炎,True
+Case_16,Kimi-K2.6,Pneumonia,右肺上叶肺炎,True
+Case_17,GPT-5.4,Pneumonia,支气管炎,False
+Case_17,Gemini-3.6 Flash,Pneumonia,支气管肺炎,True
+Case_17,Kimi-K2.6,Pneumonia,支气管肺炎,True
+Case_18,GPT-5.4,Pneumonia,左下肺炎,True
+Case_18,Gemini-3.6 Flash,Pneumonia,支气管炎,False
+Case_18,Kimi-K2.6,Pneumonia,急性支气管炎,False
+Case_19,GPT-5.4,Lung cancer,左肺门肿块，考虑中央型肺癌,True
+Case_19,Gemini-3.6 Flash,Lung cancer,左肺占位性病变（考虑肺癌可能性大）,True
+Case_19,Kimi-K2.6,Lung cancer,左肺门占位（考虑中央型肺癌）,True
+Case_20,GPT-5.4,Lung cancer,右上纵隔肺门肿块，考虑中央型肺癌,True
+Case_20,Gemini-3.6 Flash,Lung cancer,胸骨后甲状腺肿,False
+Case_20,Kimi-K2.6,Lung cancer,右肺中央型肺癌伴右肺上叶不张,True
+Case_21,GPT-5.4,Lung cancer,右下肺占位性病变，考虑周围型肺癌,True
+Case_21,Gemini-3.6 Flash,Lung cancer,右肺占位性病变（考虑肺癌可能）,True
+Case_21,Kimi-K2.6,Lung cancer,右肺下叶肺癌,True
+Case_22,GPT-5.4,Lung cancer,右中下肺肺炎,False
+Case_22,Gemini-3.6 Flash,Lung cancer,右肺占位性病变,False
+Case_22,Kimi-K2.6,Lung cancer,右肺肺炎,False
+Case_23,GPT-5.4,Bronchitis,双下肺轻度支气管炎样改变,True
+Case_23,Gemini-3.6 Flash,Bronchitis,左上肺结节,False
+Case_23,Kimi-K2.6,Bronchitis,慢性支气管炎,True
+Case_24,GPT-5.4,Bronchitis,支气管炎改变,True
+Case_24,Gemini-3.6 Flash,Bronchitis,心肺未见明显异常,False
+Case_24,Kimi-K2.6,Bronchitis,慢性支气管炎并感染,True
+Case_25,GPT-5.4,Bronchitis,支气管炎样改变,True
+Case_25,Gemini-3.6 Flash,Bronchitis,支气管炎,True
+Case_25,Kimi-K2.6,Bronchitis,支气管炎,True
+Case_26,GPT-5.4,Bronchitis,支气管炎,True
+Case_26,Gemini-3.6 Flash,Bronchitis,支气管炎,True
+Case_26,Kimi-K2.6,Bronchitis,支气管肺炎,False
+Case_27,GPT-5.4,Bronchitis,慢性支气管炎伴轻度肺气肿,True
+Case_27,Gemini-3.6 Flash,Bronchitis,支气管炎,True
+Case_27,Kimi-K2.6,Bronchitis,间质性肺炎,False
+Case_28,GPT-5.4,Bronchitis,支气管炎,True
+Case_28,Gemini-3.6 Flash,Bronchitis,支气管炎,True
+Case_28,Kimi-K2.6,Bronchitis,急性支气管炎,True
+Case_29,GPT-5.4,Bronchitis,双下肺轻度炎性改变,False
+Case_29,Gemini-3.6 Flash,Bronchitis,支气管炎,True
+Case_29,Kimi-K2.6,Bronchitis,支气管炎,True
+Case_30,GPT-5.4,Bronchitis,双下肺轻度条索性不张,False
+Case_30,Gemini-3.6 Flash,Bronchitis,支气管炎,True
+Case_30,Kimi-K2.6,Bronchitis,右肺炎症,False
+Case_31,GPT-5.4,Urinary tract calculus / renal or ureteral calculus,左侧输尿管结石,True
+Case_31,Gemini-3.6 Flash,Urinary tract calculus / renal or ureteral calculus,腹部平片未见明显急腹症征象,False
+Case_31,Kimi-K2.6,Urinary tract calculus / renal or ureteral calculus,肠梗阻,False
+Case_32,GPT-5.4,Urinary tract calculus / ureteral calculus,左侧输尿管结石,True
+Case_32,Gemini-3.6 Flash,Urinary tract calculus / ureteral calculus,腹部平片未见明显异常,False
+Case_32,Kimi-K2.6,Urinary tract calculus / ureteral calculus,左侧输尿管结石,True
+Case_33,GPT-5.4,Urinary tract calculus / renal or ureteral calculus,左侧泌尿系结石,True
+Case_33,Gemini-3.6 Flash,Urinary tract calculus / renal or ureteral calculus,左侧泌尿系结石,True
+Case_33,Kimi-K2.6,Urinary tract calculus / renal or ureteral calculus,左肾铸型结石,True
+Case_34,GPT-5.4,Urinary tract calculus / ureteral calculus,左侧输尿管结石,True
+Case_34,Gemini-3.6 Flash,Urinary tract calculus / ureteral calculus,腹部未见确切梗阻及穿孔征象,False
+Case_34,Kimi-K2.6,Urinary tract calculus / ureteral calculus,腹痛待查,False
+Case_35,GPT-5.4,Urinary tract calculus / renal or ureteral calculus,结肠粪便潴留,False
+Case_35,Gemini-3.6 Flash,Urinary tract calculus / renal or ureteral calculus,腹部平片未见明显急腹症征象,False
+Case_35,Kimi-K2.6,Urinary tract calculus / renal or ureteral calculus,右肾结石,True
+Case_36,GPT-5.4,Urinary tract calculus / ureteral calculus,右侧输尿管结石,True
+Case_36,Gemini-3.6 Flash,Urinary tract calculus / ureteral calculus,腹部平片未见明显异常,False
+Case_36,Kimi-K2.6,Urinary tract calculus / ureteral calculus,急性胃扩张,False
+Case_37,GPT-5.4,Urinary tract calculus / renal calculus,右侧输尿管上段结石,True
+Case_37,Gemini-3.6 Flash,Urinary tract calculus / renal calculus,右肾结石,True
+Case_37,Kimi-K2.6,Urinary tract calculus / renal calculus,右侧输尿管结石,True
+Case_38,GPT-5.4,Intestinal obstruction,便秘,False
+Case_38,Gemini-3.6 Flash,Intestinal obstruction,肠道便秘,False
+Case_38,Kimi-K2.6,Intestinal obstruction,急性胃扩张,False
+Case_39,GPT-5.4,Intestinal obstruction,机械性肠梗阻,True
+Case_39,Gemini-3.6 Flash,Intestinal obstruction,肠梗阻,True
+Case_39,Kimi-K2.6,Intestinal obstruction,机械性小肠梗阻,True
+Case_40,GPT-5.4,Intestinal obstruction,非梗阻性肠气分布,False
+Case_40,Gemini-3.6 Flash,Intestinal obstruction,消化道穿孔,False
+Case_40,Kimi-K2.6,Intestinal obstruction,胃扩张伴潴留,False
+Case_41,GPT-5.4,Intestinal obstruction,小肠梗阻,True
+Case_41,Gemini-3.6 Flash,Intestinal obstruction,肠梗阻,True
+Case_41,Kimi-K2.6,Intestinal obstruction,肠梗阻,True
+Case_42,GPT-5.4,Intestinal obstruction,小肠梗阻,True
+Case_42,Gemini-3.6 Flash,Intestinal obstruction,肠梗阻,True
+Case_42,Kimi-K2.6,Intestinal obstruction,机械性小肠梗阻,True
+Case_43,GPT-5.4,Intestinal obstruction,肠梗阻倾向,True
+Case_43,Gemini-3.6 Flash,Intestinal obstruction,肠胀气,False
+Case_43,Kimi-K2.6,Intestinal obstruction,机械性小肠梗阻,True
+Case_44,GPT-5.4,Intestinal obstruction,小肠梗阻,True
+Case_44,Gemini-3.6 Flash,Intestinal obstruction,肠梗阻,True
+Case_44,Kimi-K2.6,Intestinal obstruction,急性机械性小肠梗阻,True
+Case_45,GPT-5.4,Intestinal obstruction,肠梗阻倾向,True
+Case_45,Gemini-3.6 Flash,Intestinal obstruction,肠梗阻,True
+Case_45,Kimi-K2.6,Intestinal obstruction,右肾多发结石,False
+Case_46,GPT-5.4,Intestinal obstruction,机械性小肠梗阻,True
+Case_46,Gemini-3.6 Flash,Intestinal obstruction,肠梗阻,True
+Case_46,Kimi-K2.6,Intestinal obstruction,机械性小肠梗阻,True
+Case_47,GPT-5.4,Hollow viscus perforation,非特异性肠胀气,False
+Case_47,Gemini-3.6 Flash,Hollow viscus perforation,消化道穿孔,True
+Case_47,Kimi-K2.6,Hollow viscus perforation,消化道穿孔,True
+Case_48,GPT-5.4,Hollow viscus perforation,非梗阻性肠气分布,False
+Case_48,Gemini-3.6 Flash,Hollow viscus perforation,消化道穿孔,True
+Case_48,Kimi-K2.6,Hollow viscus perforation,消化道穿孔,True
+Case_49,GPT-5.4,Hollow viscus perforation,消化道穿孔致气腹,True
+Case_49,Gemini-3.6 Flash,Hollow viscus perforation,消化道穿孔,True
+Case_49,Kimi-K2.6,Hollow viscus perforation,消化道穿孔,True
+Case_50,GPT-5.4,Hollow viscus perforation,腹腔游离气体,True
+Case_50,Gemini-3.6 Flash,Hollow viscus perforation,消化道穿孔,True
+Case_50,Kimi-K2.6,Hollow viscus perforation,消化道穿孔,True
+Case_51,GPT-5.4,Hollow viscus perforation,非梗阻性肠气分布,False
+Case_51,Gemini-3.6 Flash,Hollow viscus perforation,气腹（提示消化道穿孔）,True
+Case_51,Kimi-K2.6,Hollow viscus perforation,消化道穿孔,True
+Case_52,GPT-5.4,Hollow viscus perforation,结肠粪便潴留,False
+Case_52,Gemini-3.6 Flash,Hollow viscus perforation,气腹症（消化道穿孔）,True
+Case_52,Kimi-K2.6,Hollow viscus perforation,消化道穿孔,True
+Case_53,GPT-5.4,Hollow viscus perforation,消化道穿孔伴气腹,True
+Case_53,Gemini-3.6 Flash,Hollow viscus perforation,消化道穿孔,True
+Case_53,Kimi-K2.6,Hollow viscus perforation,消化道穿孔,True
+Case_54,GPT-5.4,Hollow viscus perforation,肠梗阻,False
+Case_54,Gemini-3.6 Flash,Hollow viscus perforation,消化道穿孔,True
+Case_54,Kimi-K2.6,Hollow viscus perforation,消化道穿孔,True
+Case_55,GPT-5.4,Hollow viscus perforation,结肠粪便潴留,False
+Case_55,Gemini-3.6 Flash,Hollow viscus perforation,消化道穿孔,True
+Case_55,Kimi-K2.6,Hollow viscus perforation,消化道穿孔,True
+Case_56,GPT-5.4,No significant abnormality,非梗阻性肠气分布,True
+Case_56,Gemini-3.6 Flash,No significant abnormality,腹部平片未见明显异常,True
+Case_56,Kimi-K2.6,No significant abnormality,胃扩张伴潴留,False
+Case_57,GPT-5.4,No significant abnormality,便秘伴粪便潴留,False
+Case_57,Gemini-3.6 Flash,No significant abnormality,腹部平片未见明显异常,True
+Case_57,Kimi-K2.6,No significant abnormality,肠郁张,False
+Case_58,GPT-5.4,No significant abnormality,腹部平片未见急性异常,True
+Case_58,Gemini-3.6 Flash,No significant abnormality,未见明显急腹症X线征象,True
+Case_58,Kimi-K2.6,No significant abnormality,急腹症相关征象阴性,True
+Case_59,GPT-5.4,No significant abnormality,非梗阻性肠气分布,True
+Case_59,Gemini-3.6 Flash,No significant abnormality,腹部平片未见明显急腹症征象,True
+Case_59,Kimi-K2.6,No significant abnormality,腰椎退行性病变,False
+Case_60,GPT-5.4,No significant abnormality,非梗阻性肠气分布,True
+Case_60,Gemini-3.6 Flash,No significant abnormality,腹部平片未见明显急性腹症征象,False
+Case_60,Kimi-K2.6,No significant abnormality,肠郁张,False

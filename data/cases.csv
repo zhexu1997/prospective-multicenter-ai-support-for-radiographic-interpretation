@@ -1,0 +1,61 @@
+﻿case_id,image_file,body_region,clinical_history_en,clinical_history_zh,reference_diagnosis_zh,reference_diagnosis_en
+Case_01,images/Case_01.jpg,chest,Cough and chest tightness,咳嗽、胸闷,气胸/胸腔积气,Pneumothorax / pleural air
+Case_02,images/Case_02.jpg,chest,Cough and chest tightness,咳嗽、胸闷,气胸/胸腔积气,Pneumothorax / pleural air
+Case_03,images/Case_03.jpg,chest,Cough and chest tightness,咳嗽、胸闷,气胸/胸腔积气,Pneumothorax / pleural air
+Case_04,images/Case_04.jpg,chest,Cough and chest tightness,咳嗽、胸闷,气胸/胸腔积气,Pneumothorax / pleural air
+Case_05,images/Case_05.jpg,chest,Cough and chest tightness,咳嗽、胸闷,气胸/胸腔积气,Pneumothorax / pleural air
+Case_06,images/Case_06.jpg,chest,Cough and chest tightness,咳嗽、胸闷,气胸/胸腔积气,Pneumothorax / pleural air
+Case_07,images/Case_07.jpg,chest,Cough and chest tightness,咳嗽、胸闷,气胸/胸腔积气,Pneumothorax / pleural air
+Case_08,images/Case_08.jpg,chest,Cough and chest tightness,咳嗽、胸闷,气胸/胸腔积气,Pneumothorax / pleural air
+Case_09,images/Case_09.jpg,chest,Cough and chest tightness,咳嗽、胸闷,气胸/胸腔积气,Pneumothorax / pleural air
+Case_10,images/Case_10.jpg,chest,Cough and chest tightness,咳嗽、胸闷,肺炎,Pneumonia
+Case_11,images/Case_11.jpg,chest,Cough and chest tightness,咳嗽、胸闷,肺炎,Pneumonia
+Case_12,images/Case_12.jpg,chest,Cough and chest tightness,咳嗽、胸闷,肺炎,Pneumonia
+Case_13,images/Case_13.jpg,chest,Cough and chest tightness,咳嗽、胸闷,肺炎,Pneumonia
+Case_14,images/Case_14.jpg,chest,Cough and chest tightness,咳嗽、胸闷,肺炎,Pneumonia
+Case_15,images/Case_15.jpg,chest,Cough and chest tightness,咳嗽、胸闷,肺炎,Pneumonia
+Case_16,images/Case_16.jpg,chest,Cough and chest tightness,咳嗽、胸闷,肺炎,Pneumonia
+Case_17,images/Case_17.jpg,chest,Cough and chest tightness,咳嗽、胸闷,肺炎,Pneumonia
+Case_18,images/Case_18.jpg,chest,Cough and chest tightness,咳嗽、胸闷,肺炎,Pneumonia
+Case_19,images/Case_19.jpg,chest,Cough and chest tightness,咳嗽、胸闷,肺癌,Lung cancer
+Case_20,images/Case_20.jpg,chest,Cough and chest tightness,咳嗽、胸闷,肺癌,Lung cancer
+Case_21,images/Case_21.jpg,chest,Cough and chest tightness,咳嗽、胸闷,肺癌,Lung cancer
+Case_22,images/Case_22.jpg,chest,Cough and chest tightness,咳嗽、胸闷,肺癌,Lung cancer
+Case_23,images/Case_23.jpg,chest,Cough and chest tightness,咳嗽、胸闷,支气管炎,Bronchitis
+Case_24,images/Case_24.jpg,chest,Cough and chest tightness,咳嗽、胸闷,支气管炎,Bronchitis
+Case_25,images/Case_25.jpg,chest,Cough and chest tightness,咳嗽、胸闷,支气管炎,Bronchitis
+Case_26,images/Case_26.jpg,chest,Cough and chest tightness,咳嗽、胸闷,支气管炎,Bronchitis
+Case_27,images/Case_27.jpg,chest,Cough and chest tightness,咳嗽、胸闷,支气管炎,Bronchitis
+Case_28,images/Case_28.jpg,chest,Cough and chest tightness,咳嗽、胸闷,支气管炎,Bronchitis
+Case_29,images/Case_29.jpg,chest,Cough and chest tightness,咳嗽、胸闷,支气管炎,Bronchitis
+Case_30,images/Case_30.jpg,chest,Cough and chest tightness,咳嗽、胸闷,支气管炎,Bronchitis
+Case_31,images/Case_31.jpg,abdomen,Abdominal pain,腹痛,泌尿系结石/肾输尿管结石,Urinary tract calculus / renal or ureteral calculus
+Case_32,images/Case_32.jpg,abdomen,Abdominal pain,腹痛,泌尿系结石/输尿管结石,Urinary tract calculus / ureteral calculus
+Case_33,images/Case_33.jpg,abdomen,Abdominal pain,腹痛,泌尿系结石/肾输尿管结石,Urinary tract calculus / renal or ureteral calculus
+Case_34,images/Case_34.jpg,abdomen,Abdominal pain,腹痛,泌尿系结石/输尿管结石,Urinary tract calculus / ureteral calculus
+Case_35,images/Case_35.jpg,abdomen,Abdominal pain,腹痛,泌尿系结石/肾输尿管结石,Urinary tract calculus / renal or ureteral calculus
+Case_36,images/Case_36.jpg,abdomen,Abdominal pain,腹痛,泌尿系结石/输尿管结石,Urinary tract calculus / ureteral calculus
+Case_37,images/Case_37.jpg,abdomen,Abdominal pain,腹痛,泌尿系结石/肾结石,Urinary tract calculus / renal calculus
+Case_38,images/Case_38.jpg,abdomen,Abdominal pain,腹痛,肠梗阻,Intestinal obstruction
+Case_39,images/Case_39.jpg,abdomen,Abdominal pain,腹痛,肠梗阻,Intestinal obstruction
+Case_40,images/Case_40.jpg,abdomen,Abdominal pain,腹痛,肠梗阻,Intestinal obstruction
+Case_41,images/Case_41.jpg,abdomen,Abdominal pain,腹痛,肠梗阻,Intestinal obstruction
+Case_42,images/Case_42.jpg,abdomen,Abdominal pain,腹痛,肠梗阻,Intestinal obstruction
+Case_43,images/Case_43.jpg,abdomen,Abdominal pain,腹痛,肠梗阻,Intestinal obstruction
+Case_44,images/Case_44.jpg,abdomen,Abdominal pain,腹痛,肠梗阻,Intestinal obstruction
+Case_45,images/Case_45.jpg,abdomen,Abdominal pain,腹痛,肠梗阻,Intestinal obstruction
+Case_46,images/Case_46.jpg,abdomen,Abdominal pain,腹痛,肠梗阻,Intestinal obstruction
+Case_47,images/Case_47.jpg,abdomen,Abdominal pain,腹痛,空腔脏器穿孔,Hollow viscus perforation
+Case_48,images/Case_48.jpg,abdomen,Abdominal pain,腹痛,空腔脏器穿孔,Hollow viscus perforation
+Case_49,images/Case_49.jpg,abdomen,Abdominal pain,腹痛,空腔脏器穿孔,Hollow viscus perforation
+Case_50,images/Case_50.jpg,abdomen,Abdominal pain,腹痛,空腔脏器穿孔,Hollow viscus perforation
+Case_51,images/Case_51.jpg,abdomen,Abdominal pain,腹痛,空腔脏器穿孔,Hollow viscus perforation
+Case_52,images/Case_52.jpg,abdomen,Abdominal pain,腹痛,空腔脏器穿孔,Hollow viscus perforation
+Case_53,images/Case_53.jpg,abdomen,Abdominal pain,腹痛,空腔脏器穿孔,Hollow viscus perforation
+Case_54,images/Case_54.jpg,abdomen,Abdominal pain,腹痛,空腔脏器穿孔,Hollow viscus perforation
+Case_55,images/Case_55.jpg,abdomen,Abdominal pain,腹痛,空腔脏器穿孔,Hollow viscus perforation
+Case_56,images/Case_56.jpg,abdomen,Abdominal pain,腹痛,未见明显异常,No significant abnormality
+Case_57,images/Case_57.jpg,abdomen,Abdominal pain,腹痛,未见明显异常,No significant abnormality
+Case_58,images/Case_58.jpg,abdomen,Abdominal pain,腹痛,未见明显异常,No significant abnormality
+Case_59,images/Case_59.jpg,abdomen,Abdominal pain,腹痛,未见明显异常,No significant abnormality
+Case_60,images/Case_60.jpg,abdomen,Abdominal pain,腹痛,未见明显异常,No significant abnormality

@@ -1,0 +1,5 @@
+numpy>=1.26
+pandas>=2.2
+openai>=1.40
+pillow>=10.0
+pydicom>=2.4
