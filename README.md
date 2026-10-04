@@ -21,13 +21,9 @@ This repository reproduces the AI-suggestion arm of the study: three independent
 | Path | Description |
 | --- | --- |
 | `data/cases.csv` | Case IDs, body region, clinical history, and reference diagnoses |
-| `data/ai_suggestions.csv` | Locked GPT-5.4, Kimi-K2.6, and Gemini-3.6 Flash outputs |
 | `data/lexicon.csv` | Prespecified diagnostic lexicon used for free-text scoring |
 | `data/images/` | Case radiographs (`Case_01.jpg`–`Case_60.jpg`; not required to score locked outputs) |
-| `matching.py` | Lexicon matching for primary-diagnosis correctness |
-| `evaluate.py` | Score predictions against reference diagnoses |
 | `run_api.py` | Retest the three models with the recorded study settings |
-| `results/` | Accuracy summaries written by `evaluate.py` |
 
 Group A received GPT-5.4 alone. Group B received GPT-5.4 plus Kimi-K2.6. Group C received GPT-5.4 plus Gemini-3.6 Flash. Participant-level reader data are not included here.
 
@@ -67,7 +63,6 @@ export VERTEX_LOCATION=us-central1
 export VERTEX_ACCESS_TOKEN="$(gcloud auth print-access-token)"
 
 python run_api.py
-python evaluate.py --predictions results/api_suggestions.csv
 ```
 
 Recorded settings: GPT-5.4 and Kimi-K2.6 via Azure OpenAI Chat Completions (temperature 0.2 / 4096 tokens / JSON object, and 0.6 / 4096 tokens / prompt-enforced JSON, respectively); Gemini-3.6 Flash via Vertex `generateContent` (temperature 0.2 / 800 tokens / `application/json`). Prompt keys are `primary_diagnosis`, `secondary_diagnosis`, and `basis`. Three attempts per case.
