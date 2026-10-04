@@ -1,6 +1,6 @@
 # Dual- versus Single-Suggestion AI Support for Radiographic Interpretation in Less Experienced Physicians
 
-Code and locked AI outputs for the 60-case set used in a prospective, multicenter, randomized three-arm reader study of dual- versus single-suggestion AI support.
+Code and data for the 60-case set used in a prospective, multicenter, randomized three-arm reader study of dual- versus single-suggestion AI support.
 
 ## Abstract
 
